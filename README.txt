@@ -1,3 +1,11 @@
+# Instructions to Run Code:
+
+1. Make sure to have a version of JDBC for Oracle and a running instance of an Oracle database.
+2. Compile src files using Java.
+3. Run Java excutable to interact with database (database may no longer exist).
+4. Input a valid username and password (this code can be changed to use a different protected database).
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 |      County Garden CSE341 Project      |
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
