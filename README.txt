@@ -81,8 +81,7 @@ A. Image Versus Reality:
     As I may have hinted, the entire project was not how I originally expected it. That being said. I am
 content with (1) having the opporotunity to learn about database management systems in a 1-to-1 enviroment
 with Prof. Korth, (2) having given many long nights poking away at different quiries in my alternative database
-designs (and the joy of reaching expected output), (3) gaining knowledge and experience in a particiuar part
-of Computer Science I am not comfortable with, and (4) meeting new people just as enthusiastic as I am to
+designs (and the joy of reaching expected output), and (3) meeting new people just as enthusiastic as I am to
 learn (regardless of the virtual enviroment).
 
 B. Notes for the Future:
